@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color: white;
+}
+.nav{
+ display: flex;
+ 
+}
+.heading1{
+margin-left: 70%;
+}
+.bt{
+    margin-right: 20px;
+    font-size: 30px;
+}
+.heading{
+    margin-right: 0%;
+}
+header{
+    text-align: center;
+    font-size: 35px;
+}
+.btn{
+    height: 75px;
+    width: 100px;
+    margin-left: 50%;
+    margin-top: -10%;
+    font-size: 25px;
+    
+
+}
+
+.inp{
+    background: none;
+    border: 2px solid white;
+    height: 75px;
+    color: white;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    
+    
+}
+.check-btn{
+    height: 75px;
+    font-size: 22px;
+    width: 150px;
+    
+}
+
+.start{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+
+.main{
+    display: flex;
+    
+}
+.left{
+    margin-left: 15%;
+}
